@@ -5,8 +5,6 @@
 
 - 2-legged / 3 - legged 토큰을 할당받아 계좌개설
 
-![sign_up](https://user-images.githubusercontent.com/59694789/95427307-4a302600-0982-11eb-97b3-4c19c974c8ad.png)
-
 - 본인인증을 통한 아이디 생성 후 접속
 
 - 잔액 조회 및 QR CODE 생성
