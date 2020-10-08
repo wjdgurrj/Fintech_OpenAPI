@@ -10,6 +10,6 @@ http.createServer(function (req, res) {
 }).listen(3000);
 
 
-// 127.0.0.1 : 3000 -> nodejs http server
+// 127.0.0.1 : 3000 -> nodejs http server.
 
 // 127.0.0.1 : 3306 -> my sql
