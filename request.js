@@ -6,6 +6,6 @@ request(
     var xml = body;
     parseString(xml, function (err, result) {
         console.dir(result.rss.channel[0].item[0].description[0].header[0].wf[0]);
-        // work5  ±â»ó¿¹º¸ ³»¿ªÀ» Ãâ·ÂÇÏ±â
+        // work5  ê¸°ìƒì˜ˆë³´ ë‚´ì—­ì„ ì¶œë ¥í•˜ê¸°.
     });
 });
