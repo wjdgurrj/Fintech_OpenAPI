@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 import re
 
-
+#1
 def rePlaceData(value):
     numbers = re.findall("\d+", value)
     result = ""
