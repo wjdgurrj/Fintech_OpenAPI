@@ -7,7 +7,7 @@ var tokenKey = "gj24k1l23jk2ngkjlkj4lk2j3l1";
 var mysql = require('mysql');//
 var auth = require("./lib/auth");
 
-var connection = mysql.createConnection({ // db 연결하기
+var connection = mysql.createConnection({ // db 연결하기!
   host: 'localhost',
   user: 'root',
   password: 'ljh9915!',
