@@ -16,7 +16,7 @@ var connection = mysql.createConnection({ // db 연결하기!
 connection.connect();
 
 app.set('views', __dirname + '/views'); // ejs를 사용하기 위한 디렉토리 설정
-app.set('view engine', 'ejs'); // ejs를 사용하기위한 뷰엔진 설정
+app.set('view engine', 'ejs'); // ejs를 사용하기위한 뷰엔진 설정.
 
 app.use(express.json()); // json 타입의 데이터를 받기위한 설정
 app.use(express.urlencoded({ extended: false })); // urlencoded 타입의 데이터를 받기 위한 설정
