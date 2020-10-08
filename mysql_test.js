@@ -14,4 +14,4 @@ connection.query('SELECT * FROM user', function (error, results, fields) {
 });
 
 connection.end();
-// Vuejs React ´Â html css js(Åë½Å ÀÌº¥Æ® ´Ş±â) ¸¦ Àß Ç¥ÇöÇÏµµ·Ï ÇÏ±âÀ§ÇÑ ÇÁ·¹ÀÓ¿öÅ©
+// Vuejs React ëŠ” html css js(í†µì‹  ì´ë²¤íŠ¸ ë‹¬ê¸°) ë¥¼ ì˜ í‘œí˜„í•˜ë„ë¡ í•˜ê¸°ìœ„í•œ í”„ë ˆì„ì›Œí¬!
