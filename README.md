@@ -1,7 +1,11 @@
 # 💵Fintech_OpenAPI
+
+
 - Fintech course is opened by KISA 🏧
 
+
 ### - 실제 OpenAPI는 사용할 수 없어 TestAPI를 활용하였습니다.
+
 
 💰 2-legged / 3 - legged 토큰을 할당받아 계좌개설
 
